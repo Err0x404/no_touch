@@ -3,3 +3,11 @@
 **No Touch** is a simple utility app that provides a transparent touch-blocking screen to help prevent accidental touches while using your phone.
 
 The main control method in this version is the floating button. Users can minimize the app to the background, switch to the screen they want to protect, and tap the floating button to activate the transparent lock screen.
+
+You can download Ver"Early-Access" in here: 
+
+https://apkpure.com/p/com.shotersgamelife.notouch.app
+
+
+Play Stort Download "Standard Version":
+https://play.google.com/store/apps/details?id=com.shotersgamelife.notouch.
