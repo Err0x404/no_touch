@@ -2,8 +2,7 @@
 
 1.[No Touch] is a simple utility app that provides a transparent touch-blocking screen to help prevent accidental touches while using your phone.
 
-2.
-"You can download the installer for the exclusive version here."
+2."You can download the installer for the exclusive version here."
 
 "The installation files for the exclusive edition are available for download here."
 
