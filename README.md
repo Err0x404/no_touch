@@ -18,6 +18,6 @@ https://github.com/smilejuzi/no-touch_-Early-Access-Android/tree/main/installers
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 
-Play Stort Download "Standard Version":
+5.Play Stort Download "Standard Version":
 
 https://play.google.com/store/apps/details?id=com.shotersgamelife.notouch.
