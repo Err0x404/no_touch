@@ -1,20 +1,28 @@
 # Downloads
 
-This folder contains installers for all available versions.
+Download the latest version from GitHub Releases.
 
-You can also download the latest stable legacy version from APKPure.
+You can also download the stable legacy version from APKPure.
 
-👇 Or choose a version from the list below 👇
+👇 Choose a version from the list below 👇
+
+---
+
+## Releases
+
+• GitHub Releases (Recommended)
+
+https://github.com/Err0x404/no_touch/releases
+
+• GitHub Installers (Legacy)
+
+https://github.com/Err0x404/no_touch/tree/main/installers
 
 ---
 
 ## Mirrors
 
-• GitHub (All Versions)
-
-https://github.com/Err0x404/no_touch/tree/main/installers
-
-• APKPure (Stable Legacy Version)
+• APKPure (Stable Legacy Version, may have delayed updates)
 
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
@@ -23,11 +31,21 @@ https://apkpure.com/p/com.shotersgamelife.notouch.app
 ## Version List
 
 ### V0.3.8
-- Fixed missing prompt text.
 
-https://github.com/Err0x404/no_touch/blob/main/installers/Early%20Access_no_touch_V0.3.8_custom_warning_red_api36_release_signed_real_ads.apk
+- Fixed missing prompt text.
+- Updated the tooltip text of the style toggle button to provide guidance when customizing background and text colors.
+
+Download:
+
+https://github.com/Err0x404/no_touch/releases/tag/v0.3.8
+
+---
 
 ### V0.3.5
-- Prompt text is missing.
 
-https://github.com/Err0x404/no_touch/blob/main/installers/Early%20Access_no_touch_V0.3.5_advanced_row_text_api36_release_signed_real_ads.apk
+- The prompt text for the style switching button is missing.
+- The prompt text should appear when users customize the background and text colors.
+
+Download:
+
+https://github.com/Err0x404/no_touch/releases/tag/v0.3.5
