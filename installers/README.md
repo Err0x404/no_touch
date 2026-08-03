@@ -8,11 +8,11 @@ You can download the installer for the "exclusive version" here.
 
 👇(Or access the download page from the version list below)  👇
 
-[GitHub] Mirror (All Versions)
+•[GitHub] Mirror (All Versions)
 
 https://github.com/Err0x404/no_touch/blob/main/installers/Early%20Access_no_touch_V0.3.8_custom_warning_red_api36_release_signed_real_ads.apk
 
-[APKPure] Mirror (Stable Legacy Version)
+•[APKPure] Mirror (Stable Legacy Version)
 
 https://apkpure.com/p/com.shotersgamelife.notouch.app](https://apkpure.com/p/com.shotersgamelife.notouch.app
 
