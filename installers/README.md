@@ -14,3 +14,6 @@ https://github.com/Err0x404/no_touch/blob/main/installers/Early%20Access_no_touc
 
 •V0.3.5: This version is missing the prompt text.
 https://github.com/Err0x404/no_touch/blob/main/installers/Early%20Access_no_touch_V0.3.5_advanced_row_text_api36_release_signed_real_ads.apk
+
+[apkpure]Mirror link(stable old version)
+[https://apkpure.com/p/com.shotersgamelife.notouch.app](https://apkpure.com/p/com.shotersgamelife.notouch.app)
