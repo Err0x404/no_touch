@@ -1,20 +1,25 @@
-# no-touch_Early-Access-Android
+# no-touch Early Access (Android)
 
-1.[No Touch] is a simple utility app that provides a transparent touch-blocking screen to help prevent accidental touches while using your phone.
+## About
 
-2."You can download the installer for the exclusive version here."
+**No Touch** is a simple utility app that provides a transparent touch-blocking overlay to help prevent accidental touches while using your phone.
 
-"The installation files for the exclusive edition are available for download here."
+## Early Access
 
-3.The main control method in this version is the floating button. Users can minimize the app to the background, switch to the screen they want to protect, and tap the floating button to activate the transparent lock screen.
+You can download the **Early Access** version here.
 
-4.You can download Ver"Early-Access" in here: 
+The Early Access installers are available from the following mirrors:
 
-[GitHub] Mirror (All Versions)
+- **GitHub** (All Versions)
 
 https://github.com/smilejuzi/no-touch_-Early-Access-Android/tree/main/installers
 
-[APKPure] Mirror (Stable Legacy Version)
+- **APKPure** (Stable Legacy Version)
+
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
+## Features
 
+The primary control method in this version is a floating button.
+
+Simply minimize the app, switch to the screen you want to protect, then tap the floating button to activate the transparent touch-blocking overlay.
