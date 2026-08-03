@@ -1,4 +1,4 @@
-# no-touch_-Early-Access-Android
+# no-touch_Early-Access-Android
 
 1.[No Touch] is a simple utility app that provides a transparent touch-blocking screen to help prevent accidental touches while using your phone.
 
