@@ -10,11 +10,11 @@
 
 4.You can download Ver"Early-Access" in here: 
 
-[github](All versions  )
+[GitHub] Mirror (All Versions)
 
 https://github.com/smilejuzi/no-touch_-Early-Access-Android/tree/main/installers
 
-[apkpure]stable old version(updates are slower)
+[APKPure] Mirror (Stable Legacy Version)
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 
