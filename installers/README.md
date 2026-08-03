@@ -4,7 +4,7 @@
 
 #You can download the installer for the "exclusive version" here.
 
-**Select a version from the list above, click to enter the page, then click "Download File" and install it.
+*Select a version from the list above, click to enter the page, then click "Download File" and install it.
 ---
 👇(Or access the download page from the version list below)  👇
 
