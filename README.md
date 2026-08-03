@@ -1,4 +1,8 @@
-# no-touch Early Access (Android)
+# no-touch 🏆 Exclusive Early Access Edition (Android)
+
+The Exclusive Early Access Edition is an independent version of No Touch.
+
+It provides exclusive new features and improvements through a separate distribution channel.
 
 ## About
 
