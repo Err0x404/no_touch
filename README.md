@@ -10,14 +10,11 @@
 
 4.You can download Ver"Early-Access" in here: 
 
-[github]
+[github](All versions  )
 
 https://github.com/smilejuzi/no-touch_-Early-Access-Android/tree/main/installers
 
-[apkpure]
+[apkpure]stable old version(updates are slower)
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 
-5.Play Stort Download "Standard Version":
-
-https://play.google.com/store/apps/details?id=com.shotersgamelife.notouch.
