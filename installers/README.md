@@ -42,7 +42,7 @@ In such cases, you may need to manually tap the lock option in the notification 
 
 -Added text prompts to ensure that users can easily refer to the relevant information while using the app.
 
-### V0.3.9.2
+### V0.3.9.02
 
 -Added and optimized the “Custom Image Background & Colors” feature.
 
