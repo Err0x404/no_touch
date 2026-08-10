@@ -30,6 +30,20 @@ https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 ## Version List
 
+### V0.3.9.16
+
+🌟News
+
+1.Improved Onboarding: Added guidance to show users that the floating ball can be moved.
+
+2.Added Legal Policies: Integrated Privacy Policy & Terms of Service links.
+
+3.In-App Rating: Added a rate app feature with a cooldown mechanism to prevent unwanted interruptions.
+
+4.Enhanced Navigation Safety: Optimized back, cancel, and close actions to prevent accidental exits.
+
+5.New "About App" Page: Created an "About App" section consolidating all new features and options.
+
 ### V0.3.9.15
 
 -Added a weekly scheduled screen lock feature and grouped related function buttons under the same option.
