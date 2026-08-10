@@ -1,5 +1,7 @@
 # Downloads
 
+[🏆Exclusive Early Access Edition]
+
 Download the latest version from GitHub Releases.
 
 You can also download the stable legacy version from APKPure.
