@@ -44,6 +44,8 @@ https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 5.New "About App" Page: Created an "About App" section consolidating all new features and options.
 
+6.Updated Official Sponsorship Link (Exclusive Early Access Edition): Updated the official donation/support link, available exclusively in the Exclusive Early Access Edition.
+
 ### V0.3.9.15
 
 -Added a weekly scheduled screen lock feature and grouped related function buttons under the same option.
