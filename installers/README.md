@@ -32,6 +32,12 @@ https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 ## Version List
 
+### V0.3.9.18.03
+
+-Fixed the issue where the countdown start had no "back" button and the "ON" indicator was not displayed when the start function was active.
+
+-Added version number Easter egg ✨🐣
+
 ### V0.3.9.16
 
 🌟News
