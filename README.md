@@ -48,5 +48,11 @@ https://github.com/Err0x404/no_touch/tree/main/installers
 
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
+•Visit our "APKPure" [official web page] or explore the project documentation and updates on GitHub.
+
+* **Official App Web Page**: 
+
+https://notouch.apk.com/
+
 ---
 
