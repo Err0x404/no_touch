@@ -39,6 +39,16 @@ https://notouch.apk.com/
 
 ## Version List
 
+### V0.3.9.18.05
+
+-Fix the issue of the homepage and main menu language not being synchronized.
+
+-Add a method to read the current language status.
+
+-Move the "Apply Settings" button to a new position.
+
+-When clicking the notification bar, it must trigger a transparent screen lock instead of returning to the app screen lock.
+
 ### V0.3.9.18.03
 
 -Fixed the issue where the countdown start had no "back" button and the "ON" indicator was not displayed when the start function was active.
