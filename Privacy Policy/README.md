@@ -11,7 +11,7 @@ For more information about how we collect, use, and protect your data, please re
 
 # Privacy Policy & Terms of Service for no touch
 
-**Last updated:** August 10, 2026  
+**Last updated:** August 25, 2026  
 **Contact Email:** `[fukubulsht@protonmail.com]`
 
 ---
