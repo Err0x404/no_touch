@@ -2,7 +2,7 @@
 
 **Creation Date:** August 10, 2026  
 **Last updated:** August 25, 2026  
-**Contact Email:** [your-email@example.com]
+**Contact Email:** [fukubulsht@protonmail.com]
 
 ---
 
@@ -100,4 +100,4 @@ By downloading or using the **no touch** app, these terms will automatically app
 
 If you have any questions or suggestions about this Privacy Policy and Terms of Service, you can contact us:
 
-* **By email:** [your-email@example.com]
+* **By email:** [fukubulsht@protonmail.com]
