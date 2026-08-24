@@ -35,11 +35,11 @@ For more information about how we collect, use, and protect your data, please re
 
 ---
 
-### 3. Third-Party Services & AdMob Advertising
-Our application uses **Google AdMob** to display advertisements. AdMob may automatically collect certain device information and identifiers to provide relevant ads.
-* **Data Collected by AdMob:** AdMob may use device identifiers (such as Advertising ID), IP addresses, and non-personal diagnostic data to serve ads.
-* **Personalized vs. Non-Personalized Ads:** Depending on your region and device settings, AdMob may serve personalized or non-personalized advertisements. You can manage your ad preferences through your Google account or device settings.
-* For more information on how Google uses data when you use our app, please visit: [Google's Privacy & Terms](https://policies.google.com/technologies/partner-sites).
+### 3. Third-Party Services & Advertising
+Our application uses **InMobi** to display advertisements. InMobi may automatically collect certain device information and identifiers to provide relevant ads.
+* **Data Collected by InMobi:** InMobi may use device identifiers (such as Advertising ID), coarse location, and non-personal diagnostic data to serve ads.
+* **Personalized vs. Non-Personalized Ads:** Depending on your region and device settings, InMobi may serve personalized or non-personalized advertisements. You can manage your ad preferences through your Google account or device settings.
+* For more information on how InMobi uses data when you use our app, please visit: [InMobi Privacy Policy](https://www.inmobi.com/privacy-policy).
 
 ---
 
