@@ -43,6 +43,8 @@ https://notouch.apk.com/
 
 -Correcting advertisements
 
+-Update the privacy policy and terms of service, and the links to the above information.
+
 ### V0.3.9.18.05
 
 -Fix the issue of the homepage and main menu language not being synchronized.
