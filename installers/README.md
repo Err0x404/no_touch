@@ -45,6 +45,8 @@ https://notouch.apk.com/
 
 -Update the privacy policy and terms of service, and the links to the above information.
 
+-Corrected "Battery Optimization" image descriptions in different languages
+
 ### V0.3.9.18.05
 
 -Fix the issue of the homepage and main menu language not being synchronized.
