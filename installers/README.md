@@ -39,6 +39,10 @@ https://notouch.apk.com/
 
 ## Version List
 
+### V0.3.9.18.07
+
+-Correcting advertisements
+
 ### V0.3.9.18.05
 
 -Fix the issue of the homepage and main menu language not being synchronized.
