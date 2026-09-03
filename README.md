@@ -1,4 +1,4 @@
-# no-touch 🏆 Exclusive Early Access Edition (Android)
+<img width="1024" height="500" alt="未命名 - 7" src="https://github.com/user-attachments/assets/6ccc4ed9-9bfe-400b-a6b0-a7d7712d7c1f" /># no-touch 🏆 Exclusive Early Access Edition (Android)
 
 The Exclusive Early Access Edition is an independent version of No Touch.
 
@@ -10,6 +10,7 @@ It provides exclusive new features and improvements through a separate distribut
 
 The main control method in this version is the floating button. Users can minimize the app to the background, switch to the screen they want to protect, and tap the floating button to activate the transparent lock screen.
 
+![Banner](./Pictures/banner-app.png)
 
 ---
 
