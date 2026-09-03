@@ -8,8 +8,13 @@ It provides exclusive new features and improvements through a separate distribut
 
 The main control method in this version is the floating button. Users can minimize the app to the background, switch to the screen they want to protect, and tap the floating button to activate the transparent lock screen.
 
-![Banner](./Pictures/banner-app.png)
+<!-- 調整大小 -->
+<img src="./Pictures/banner-app.png" width="600">
 
+<!-- 圖片置中 -->
+<p align="center">
+  <img src="./Pictures/banner-app.png" width="600" alt="Banner">
+</p>
 ---
 
 
