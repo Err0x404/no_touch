@@ -1,5 +1,3 @@
----
-
 The Exclusive Early Access Edition is an independent version of No Touch.
 
 It provides exclusive new features and improvements through a separate distribution channel.
