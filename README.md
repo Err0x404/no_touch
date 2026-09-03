@@ -2,6 +2,12 @@ The Exclusive Early Access Edition is an independent version of No Touch.
 
 It provides exclusive new features and improvements through a separate distribution channel.
 
+<!-- 圖片置中 -->
+<p align="center">
+  <img src="./Pictures/NO TOUCH _E02.png" width="600" alt="Banner">
+</p>
+
+
 ## About
 
 **No Touch** is a simple utility app that provides a transparent touch-blocking overlay to help prevent accidental touches while using your phone.
