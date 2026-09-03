@@ -1,4 +1,4 @@
-<img width="1024" height="500" alt="未命名 - 7" src="https://github.com/user-attachments/assets/6ccc4ed9-9bfe-400b-a6b0-a7d7712d7c1f" /># no-touch 🏆 Exclusive Early Access Edition (Android)
+---
 
 The Exclusive Early Access Edition is an independent version of No Touch.
 
