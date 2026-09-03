@@ -56,6 +56,8 @@ https://github.com/Err0x404/no_touch/tree/main/installers
 
 https://apkpure.com/p/com.shotersgamelife.notouch.app
 
+https://shotersgamelife.itch.io/no-touch-one-tap-screen-lock
+
 •Visit our "APKPure" [official web page] or explore the project documentation and updates on GitHub.
 
 * **Official App Web Page**: 
