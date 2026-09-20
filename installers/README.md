@@ -39,6 +39,14 @@ https://notouch.apk.com/
 
 ## Version List
 
+### V0.3.9.18.08
+
+-Code optimization
+
+-Optimized graphics loading
+
+-Ad replacement
+
 ### V0.3.9.18.07
 
 -Correcting advertisements
