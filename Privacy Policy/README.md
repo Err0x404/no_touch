@@ -43,7 +43,7 @@ Our application uses **Start.io** (StartApp) to display advertisements. Start.io
 
 - **Data Collected by Start.io:** Start.io may use device identifiers (such as Advertising ID / AAID), coarse location, IP address, and non-personal diagnostic data to serve ads.
 - **Personalized vs. Non-Personalized Ads:** Depending on your region and device settings, Start.io may serve personalized or non-personalized advertisements. You can manage your ad preferences through your Google account or device settings.
-- **More Information:** For details on how Start.io uses data when you use our app, please visit [Start.io's Privacy Policy]([https://www.start.io/privacy-policy/](https://www.start.io/policy/privacy-policy-site/)).
+- **More Information:** For details on how Start.io uses data when you use our app, please visit [Start.io's Privacy Policy](https://www.start.io/policy/privacy-policy-site/).
 
 ---
 
