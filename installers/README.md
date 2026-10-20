@@ -39,7 +39,7 @@ https://notouch.apk.com/
 
 ## Version List
 
-### V0.3.9.18.10
+### V0.3.9.18.09
 
 - Removed interstitial full-screen ads
   
