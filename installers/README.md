@@ -39,6 +39,20 @@ https://notouch.apk.com/
 
 ## Version List
 
+### V0.3.9.18.10
+
+- Removed interstitial full-screen ads
+  
+- Optimized BitmapFactory memory loading mechanism
+  
+- Enabled R8 resource shrinking
+  
+- Updated Privacy Policy and Terms of Service
+
+---
+
+## Version List
+
 ### V0.3.9.18.08
 
 -Code optimization
